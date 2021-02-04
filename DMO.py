@@ -8,7 +8,7 @@ from adafruit_motorkit import MotorKit
 from adafruit_motor import stepper
 
 # string from webserver
-url = 'http://planetarium.chrisdemoor.nl/positions.txt'
+url = 'http://yourdomain.xxx/positions.txt'
 
 # this is for testing, leave it as is
 test_modus = False
