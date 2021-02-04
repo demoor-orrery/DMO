@@ -10,9 +10,7 @@ from adafruit_motor import stepper
 # string from webserver
 url = 'http://planetarium.chrisdemoor.nl/positions.txt'
 
-# if test_modus is TRUE the webserver string is not used 
-# TEST_website_string.py which runs on a seperate RPI provides the string
-# this is for testing
+# this is for testing, leave it as is
 test_modus = False
 planeet_motor = True
 if test_modus:
