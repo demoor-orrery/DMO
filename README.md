@@ -1,4 +1,4 @@
-# DMO
+# www.demoor-orrery.com/en
 
 here all files are stored which will help to build your own planetrium
 
